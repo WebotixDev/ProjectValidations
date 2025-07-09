@@ -1,4 +1,4 @@
-# ProjectValidations
+# Project Validations
  - Follow this valiadtion to all projects
 
 | Sr No | Validation Point          | Validation In Brief                                                         |
